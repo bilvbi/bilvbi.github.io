@@ -1,0 +1,1 @@
+react 安装报错，解决EACCES: permission denied, mkdir 中，一晚上没有解决掉！
